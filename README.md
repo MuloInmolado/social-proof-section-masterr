@@ -1,1 +1,1 @@
-Web Site: https://social-proof-section-masterr.netlify.app/
+Website: https://social-proof-section-masterr.netlify.app/
